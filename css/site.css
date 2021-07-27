@@ -101,26 +101,15 @@ footer {
     padding-right: .67rem;
 }
 
-/* .subtitle {
-    font-size: .67rem;
-} */
-
-/* .title-container {
-    position: relative;
-    display: inline-block;
-}
-
-.title {
-    position: absolute;
-    height: 100%;
+.food-menu {
     text-align: center;
-    color: rgb(236, 205, 205);
 }
 
-.image {
-    position: absolute;
-    max-width: 100%;
-    height: auto;
-    float: ce;
+.food-items {
+    list-style-type: none;
 }
- */
+
+.food-items li {
+    text-indent: -1rem;
+    margin-bottom: 2rem;
+}
